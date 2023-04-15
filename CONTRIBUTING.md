@@ -6,7 +6,7 @@ Thanks for taking the time to contribute! :smile:
 
 - [Contributing to Cypress Documentation](#contributing-to-cypress-documentation)
   - [Code of Conduct](#code-of-conduct)
-  - [Writing Documentation](#writing-documentation)
+  - [Writing Documentation](#uzkjzjjz-documentation)
     - [Admonitions](#admonitions)
     - [Images](#images)
     - [Videos](#videos)
